@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KM28C16
+D CMOS EEPROM 16Kb (2K x 8), DIP-24
+K EEPROM 16Kb
+F KM28C16-20-SAMSS11961-1.pdf
+$ENDCMP
+#
+$CMP P8052AH
+D MCS-51 8-bit Microcontroller, 64kb ROM, 256B RAM, DIP-40
+K MCS-51 uC Microcontroller
+F p8052ah.pdf
+$ENDCMP
+#
+#End Doc Library
